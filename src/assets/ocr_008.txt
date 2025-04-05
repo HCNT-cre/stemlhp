@@ -1,0 +1,43 @@
+V008_60: Học sinh áo cam đang đạp xe đạp trước cổng trường, xe đạp màu đỏ trước cổng Trường
+V008_180: Đội nón bảo hiểm màu xanh, màu vàng
+V008_210: Không đội nón bảo hiểm, không đội mũ bảo hiểm, mặc áo khoác màu xanh, áo xanh, đi xe đạp điện không đội mũ bảo hiểm
+V008_720: 3 học sinh chất ba, chất ba không đội nón bảo hiểm, áo cam nón vàng không đội mũ bảo hiểm, chất ba đeo cặp màu đen, đeo cặp đen
+V008_870: xe đạp điện màu xanh lá không đội mũ bảo hiểm, học sinh không đội mũ bảo hiểm, nón bảo hiểm, không đội nón bảo hiểm
+V008_960: học sinh không đội mũ bảo hiểm, nón bảo hiểm, không đội nón bảo hiểm
+V008_1200: học sinh không đội mũ bảo hiểm, nón bảo hiểm, không đội nón bảo hiểm
+V008_1560: học sinh không đội mũ bảo hiểm, nón bảo hiểm, không đội nón bảo hiểm
+V008_1809: học sinh không đội mũ bảo hiểm, nón bảo hiểm, không đội nón bảo hiểm
+V008_2019: học sinh không đội mũ bảo hiểm, nón bảo hiểm, không đội nón bảo hiểm, 3 học sinh chất ba, chất ba không đội nón bảo hiểm, áo cam nón vàng không đội mũ bảo hiểm, chất ba đeo cặp màu đen, đeo cặp đen
+V008_2079: học sinh không đội mũ bảo hiểm, nón bảo hiểm, không đội nón bảo hiểm
+V008_2229: cô giáo áo dài màu vàng, áo dài vàng, khăn trùm đầu màu xanh, đang đi ra trước cổng trường, cô giáo đi ra khỏi cổng trường
+V008_2349: 03-11-2023 06:49 có học sinh đang ở ngoài nhà xe, học sinh ở ngoài bãi giữ xe, học sinh ở ngoài khu vực giữ xe
+V008_2499: 03-11-2023 06:50 có 2 học sinh đang ở ngoài nhà xe, hai học sinh ở ngoài bãi giữ xe, hai học sinh ở ngoài khu vực giữ xe, một học sinh đang đi bộ, một học sinh đang dắt xe
+V008_2589: 03-11-2023 06:50 có học sinh đang ở ngoài nhà xe, học sinh ở ngoài bãi giữ xe, học sinh ở ngoài khu vực giữ xe một học sinh đang dắt xe
+V008_3099: có học sinh đang ở ngoài nhà xe, học sinh ở ngoài bãi giữ xe, học sinh ở ngoài khu vực giữ xe một học sinh đang dắt xe
+V008_3488: học sinh đang ra về, học sinh đi trên hành lang, học sinh mặc áo khoác đỏ, đi về
+V008_3548: học sinh cầm bình nước màu đỏ, bình nước đỏ, học sinh đi học về cầm bình nước đỏ, cầm vật màu đỏ
+V008_3668: học sinh mặc áo vàng, học sinh mặc áo khoác vàng đang đi học về, học sinh đi học về có mặc áo khoác vàng
+V008_3807: bình chữa cháy màu đỏ, bình màu đỏ, chữa cháy, cầu thang bên cạnh bình chữa cháy
+V008_4077: học sinh đi tới cầu thang, cầu thang học sinh áo khoác đỏ, áo khoác đỏ bên cạnh bình chữa cháy
+V008_4227: học sinh rớt ví màu đỏ, rớt hộp bút màu đỏ, rớt vật màu đỏ , bên cầu thang, tại cầu thang rớt hộp bút màu đỏ, tại cầu thang rớt vật màu đỏ
+V008_4287: học sinh rớt ví màu đỏ, rớt hộp bút màu đỏ, rớt vật màu đỏ , bên cầu thang, tại cầu thang rớt hộp bút màu đỏ, tại cầu thang rớt vật màu đỏ
+V008_4467: học sinh rớt ví màu đỏ, rớt hộp bút màu đỏ, rớt vật màu đỏ , bên cầu thang, tại cầu thang rớt hộp bút màu đỏ, tại cầu thang rớt vật màu đỏ
+V008_4737: học sinh rớt ví màu đỏ, rớt hộp bút màu đỏ, rớt vật màu đỏ , bên cầu thang, tại cầu thang rớt hộp bút màu đỏ, tại cầu thang rớt vật màu đỏ
+V008_4926: học sinh đi xuống cầu thang, cầu thang màu xanh, học sinh đi học về trên cầu thang
+V008_5556: học sinh áo khoác đỏ đi trên cầu thang, học sinh đi xuống cầu thang, áo khoác màu đỏ
+V008_5812: học sinh chất 3, học sinh chở 3, học sinh chở ba tại nhà xe, đi xe đạp điện chở ba, chở ba không đội mũ bảo hiểm, chở ba không đội nón bảo hiểm
+V008_5902: học sinh chất 3, học sinh chở 3, học sinh chở ba tại nhà xe, đi xe đạp điện chở ba, chở ba không đội mũ bảo hiểm, chở ba không đội nón bảo hiểm
+V008_5962: học sinh không đội nón bảo hiểm, học sinh không đội mũ bảo hiểm
+V008_6052: học sinh không đội nón bảo hiểm, học sinh không đội mũ bảo hiểm
+V008_6532: học sinh chất 3, học sinh chở 3, học sinh chở ba tại nhà xe, đi xe đạp điện chở ba, chở ba không đội mũ bảo hiểm, chở ba không đội nón bảo hiểm
+V008_6592: học sinh chất 3, học sinh chở 3, học sinh chở ba tại nhà xe, đi xe đạp điện chở ba, chở ba không đội mũ bảo hiểm, chở ba không đội nón bảo hiểm
+V008_6682: học sinh chất 3, học sinh chở 3, học sinh chở ba tại nhà xe, đi xe đạp điện chở ba, chở ba không đội mũ bảo hiểm, chở ba không đội nón bảo hiểm
+V008_7222: học sinh chất 3, học sinh chở 3, học sinh chở ba tại nhà xe, đi xe đạp điện chở ba, chở ba không đội mũ bảo hiểm, chở ba không đội nón bảo hiểm
+V008_7282: học sinh chất 3, học sinh chở 3, học sinh chở ba tại nhà xe, đi xe đạp điện chở ba, chở ba không đội mũ bảo hiểm, chở ba không đội nón bảo hiểm
+V008_7402: học sinh không đội nón bảo hiểm, học sinh không đội mũ bảo hiểm
+V008_7882: học sinh chất 3, học sinh chở 3, học sinh chở ba tại nhà xe, đi xe đạp điện chở ba, chở ba không đội mũ bảo hiểm, chở ba không đội nón bảo hiểm
+V008_7942: học sinh chất 3, học sinh chở 3, học sinh chở ba tại nhà xe, đi xe đạp điện chở ba, chở ba không đội mũ bảo hiểm, chở ba không đội nón bảo hiểm
+V008_8062: học sinh không đội nón bảo hiểm, học sinh không đội mũ bảo hiểm
+V008_8495: học sinh không đội nón bảo hiểm, học sinh không đội mũ bảo hiểm
+V008_8555: học sinh chất 3, học sinh chở 3, học sinh chở ba tại nhà xe, đi xe đạp điện chở ba, chở ba không đội mũ bảo hiểm, chở ba không đội nón bảo hiểm
+V008_8615: học sinh chất 3, học sinh chở 3, học sinh chở ba tại nhà xe, đi xe đạp điện chở ba, chở ba không đội mũ bảo hiểm, chở ba không đội nón bảo hiểm
