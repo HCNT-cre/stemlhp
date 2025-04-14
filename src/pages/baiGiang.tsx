@@ -135,10 +135,23 @@ const BaiGiang: React.FC = () => {
 
     setLoading(true);
     try {
-      // Generate embedding for the query
+      let query = searchText;
+      if (i18n.language === 'en') {
+        // Dịch query từ tiếng Anh sang tiếng Việt
+        const translationResponse = await openai.chat.completions.create({
+          model: 'gpt-4o-mini',
+          messages: [
+            { role: 'system', content: 'Translate the following English text to Vietnamese.' },
+            { role: 'user', content: searchText },
+          ],
+        });
+        query = translationResponse.choices[0].message.content || searchText;
+      }
+
+      // Generate embedding for the query (đã dịch sang tiếng Việt nếu cần)
       const queryEmbeddingResponse = await openai.embeddings.create({
         model: 'text-embedding-ada-002',
-        input: searchText,
+        input: query,
       });
       const queryEmbedding = queryEmbeddingResponse.data[0].embedding;
 
@@ -418,7 +431,7 @@ const BaiGiang: React.FC = () => {
               gridTemplateColumns: {
                 xs: 'repeat(1, minmax(0, 1fr))',
                 sm: 'repeat(2, minmax(0, 1fr))',
-                md: 'repeat(3, minmax(0, 1fr))',
+                md: 'repeat(3, minmax( GAO = 0, 1fr))',
                 lg: 'repeat(5, minmax(0, 1fr))',
               },
             }}
@@ -442,7 +455,7 @@ const BaiGiang: React.FC = () => {
                       (e.currentTarget as HTMLImageElement).style.transform = 'scale(1)';
                     }}
                     src={`assets/${folder}/${item.index}.jpg`}
-                    alt={`Hình ảnh ${item.vxxx}_${item.index}`}
+                    alt={`H hình ảnh ${item.vxxx}_${item.index}`}
                     className="object-cover cursor-pointer rounded-lg shadow-lg"
                     style={{
                       width: '100%',

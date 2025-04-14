@@ -40,7 +40,7 @@ const TrongTruong: React.FC = () => {
   const [currentImage, setCurrentImage] = useState<number>(0);
   const [idCurrentImage, setIdCurrentImage] = useState<number>(0);
 
-  // Precompute embeddings for OCR data (you can do this once and cache it)
+  // Precompute embeddings for OCR data
   const [ocrEmbeddings, setOcrEmbeddings] = useState<any[]>([]);
 
   useEffect(() => {
@@ -97,10 +97,23 @@ const TrongTruong: React.FC = () => {
 
     setLoading(true);
     try {
-      // Generate embedding for the query
+      let query = searchText;
+      if (i18n.language === 'en') {
+        // Dịch query từ tiếng Anh sang tiếng Việt
+        const translationResponse = await openai.chat.completions.create({
+          model: 'gpt-4o-mini',
+          messages: [
+            { role: 'system', content: 'Translate the following English text to Vietnamese.' },
+            { role: 'user', content: searchText },
+          ],
+        });
+        query = translationResponse.choices[0].message.content || searchText;
+      }
+
+      // Generate embedding for the query (đã dịch sang tiếng Việt nếu cần)
       const queryEmbeddingResponse = await openai.embeddings.create({
         model: 'text-embedding-ada-002',
-        input: searchText,
+        input: query,
       });
       const queryEmbedding = queryEmbeddingResponse.data[0].embedding;
 
@@ -110,7 +123,7 @@ const TrongTruong: React.FC = () => {
           ...item,
           similarity: cosineSimilarity(queryEmbedding, item.embedding),
         }))
-        .filter(item => item.similarity > 0.8) // Threshold for similarity (adjust as needed)
+        .filter(item => item.similarity > 0.8) // Threshold for similarity
         .sort((a, b) => b.similarity - a.similarity); // Sort by similarity
 
       // Map to the format your app expects
@@ -209,7 +222,7 @@ const TrongTruong: React.FC = () => {
             cursor: 'pointer',
             '&:hover': { color: '#d1d5db' },
             fontSize: {
-              xs: i18n.language === 'vi' ? '0.875rem' : '1rem', // Smaller font size for Vietnamese on mobile
+              xs: i18n.language === 'vi' ? '0.875rem' : '1rem',
               sm: '1.5rem',
             },
             mb: { xs: '0.5rem', sm: 0 },
@@ -232,7 +245,6 @@ const TrongTruong: React.FC = () => {
             },
           }}
         >
-          {/* <Tab label={t('news')} value="/dashboard" /> */}
           <Tab label={t('lessons')} value="/baigiang" />
           <Tab label={t('school')} value="/trongtruong" />
           <Tab label={t('upload')} value="/upload" />
@@ -354,8 +366,8 @@ const TrongTruong: React.FC = () => {
                 key={index}
                 className="relative"
                 sx={{
-                  maxWidth: { xs: '250px', sm: '250px' }, // Responsive maxWidth
-                  mx: 'auto', // Center the image in the grid cell
+                  maxWidth: { xs: '250px', sm: '250px' },
+                  mx: 'auto',
                 }}
               >
                 <img
