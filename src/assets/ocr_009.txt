@@ -1,0 +1,28 @@
+V009_0: Học sinh đi xe đạp trong bãi giữ xe, xe đạp màu đỏ trong bãi giữ xe, xe đạp điện màu đỏ, học sinh đi xe đạp, học sinh mặc áo khoác đỏ đi xe đạp
+V009_60: Học sinh đi xe đạp trong bãi giữ xe, xe đạp màu đỏ trong bãi giữ xe, xe đạp điện màu đỏ, học sinh đi xe đạp, học sinh mặc áo khoác đỏ đi xe đạp
+V009_120: Học sinh đi xe đạp trong bãi giữ xe, xe đạp màu đỏ trong bãi giữ xe, xe đạp điện màu đỏ, học sinh đi xe đạp, học sinh mặc áo khoác đỏ đi xe đạp, học sinh đội nón màu đỏ, học sinh đội mũ màu đỏ đi xe đạp
+V009_270: Học sinh đi xe đạp trong bãi giữ xe, xe đạp màu đỏ trong bãi giữ xe, xe đạp điện màu đỏ, học sinh đi xe đạp, học sinh mặc áo khoác đỏ đi xe đạp, học sinh đội nón màu đỏ, học sinh đội mũ màu đỏ đi xe đạp, học sinh mặc đồ thể dục, học sinh mặc đồng phục thể dục
+V009_420: Học sinh đi xe đạp trong bãi giữ xe, xe đạp màu đỏ trong bãi giữ xe, xe đạp điện màu đỏ, học sinh đi xe đạp, học sinh mặc áo khoác đỏ đi xe đạp, học sinh đội nón màu đỏ, học sinh đội mũ màu đỏ đi xe đạp, học sinh mặc đồ thể dục, học sinh mặc đồng phục thể dục
+V009_450: Học sinh đi xe đạp trong bãi giữ xe, xe đạp màu đỏ trong bãi giữ xe, xe đạp điện màu đỏ, học sinh đi xe đạp, học sinh mặc áo khoác đỏ đi xe đạp, học sinh đội nón màu đỏ, học sinh đội mũ màu đỏ đi xe đạp, học sinh mặc đồ thể dục, học sinh mặc đồng phục thể dục, học sinh đi xe đạp điện không đội mũ bảo hiểm, không đội nón bảo hiểm, học sinh đi xe đạp điện đội nón bảo hiểm màu trắng, mũ màu trắng
+V009_510: Học sinh đi xe đạp trong bãi giữ xe, xe đạp màu đỏ trong bãi giữ xe, xe đạp điện màu đỏ, học sinh đi xe đạp, học sinh mặc áo khoác đỏ đi xe đạp, học sinh đội nón màu đỏ, học sinh đội mũ màu đỏ đi xe đạp, học sinh mặc đồ thể dục, học sinh mặc đồng phục thể dục, học sinh đi xe đạp điện không đội mũ bảo hiểm, không đội nón bảo hiểm, học sinh đi xe đạp điện đội mũ màu vàng, nón bảo hiểm màu vàng
+V009_540: Học sinh đi xe đạp trong bãi giữ xe, xe đạp màu đỏ trong bãi giữ xe, xe đạp điện màu đỏ, học sinh đi xe đạp, học sinh mặc áo khoác đỏ đi xe đạp, học sinh đội nón màu đỏ, học sinh đội mũ màu đỏ đi xe đạp, học sinh mặc đồ thể dục, học sinh mặc đồng phục thể dục, học sinh đi xe đạp điện không đội mũ bảo hiểm, không đội nón bảo hiểm, học sinh đi xe đạp điện đội mũ màu vàng, nón bảo hiểm màu vàng
+V009_600: bãi ghế đá, ghế đá sân trường, học sinh đang ngồi trên ghế đá, nhiều học sinh đi xe đạp trong sân trường có ghế đá
+V009_690: bãi ghế đá, ghế đá sân trường, học sinh đang ngồi trên ghế đá, nhiều học sinh đi xe đạp trong sân trường có ghế đá, học sinh đi xe đạp điện không đội mũ bảo hiểm, không đội nón bảo hiểm, học sinh đi xe đạp điện đội mũ màu vàng, nón bảo hiểm màu vàng
+V009_720: bãi ghế đá, ghế đá sân trường, học sinh đang ngồi trên ghế đá, nhiều học sinh đi xe đạp trong sân trường có ghế đá, học sinh đi xe đạp điện không đội mũ bảo hiểm, không đội nón bảo hiểm, học sinh đi xe đạp điện đội mũ màu vàng, nón bảo hiểm màu vàng
+V009_750: bãi ghế đá, ghế đá sân trường, học sinh đang ngồi trên ghế đá, nhiều học sinh đi xe đạp trong sân trường có ghế đá, học sinh đi xe đạp điện không đội mũ bảo hiểm, không đội nón bảo hiểm, học sinh đi xe đạp điện đội mũ màu vàng, nón bảo hiểm màu vàng
+V009_810: học sinh mặc áo khoác màu đỏ đi xe đạp trong sân trường
+V009_900: học sinh mặc áo khoác màu đỏ đi xe đạp trong sân trường
+V009_1080: học sinh mặc áo khoác màu đỏ đi xe đạp trong sân trường
+V009_1140: Học sinh mặc áo khoác màu nâu đang đi bộ trong sân trường
+V009_1560: Học sinh mặc áo khoác màu hồng đang đi xe đạp trong sân trường
+V009_1650: Học sinh mặc áo khoác màu hồng đang đi xe đạp trong sân trường
+V009_1710: Học sinh mặc áo khoác màu xanh lá đang đi xe đạp điện trong sân trường, học sinh mặc áo khoác màu xanh lá đội mũ màu đỏ
+V009_1740: Học sinh mặc áo khoác màu xanh lá đang đi xe đạp điện trong sân trường, học sinh mặc áo khoác màu xanh lá đội mũ màu đỏ
+V009_1830: Học sinh mặc áo khoác màu đỏ đang chạy bộ trong sân trường, hai học sinh mặc áo khoác màu nâu và đen
+V009_2010: Học sinh mặc áo khoác màu đỏ đi xe đạp vào bãi giữ xe
+V009_2040: Học sinh đi xe đạp điện không đội mũ bảo hiểm, không đội nón bảo hiểm, học sinh đi xe đạp điện đội nón màu vàng
+V009_2070: Học sinh đi xe đạp điện không đội mũ bảo hiểm, không đội nón bảo hiểm, học sinh đi xe đạp điện đội nón màu vàng
+V009_2100: Học sinh đi xe đạp màu đỏ
+V009_2220: Học sinh mặc áo khoác màu đỏ đi xe đạp vào bãi giữ xe, học sinh mặc áo khoác màu đỏ đi xe đạp , mặc quần thể dục màu xanh
+V009_2250: Học sinh đi xe đạp đội nón màu đỏ, đội mũ màu đỏ
+
